@@ -2,7 +2,6 @@
 compile with >> cl /EHsc datatype-size-example.cpp
 then run with >> .\datatype-size-example
 
-output:
 -Size of char : 1 byte
 -Size of int : 4 bytes
 -Size of signed int : 4 bytes
